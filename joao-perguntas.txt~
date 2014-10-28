@@ -1,33 +1,19 @@
-Quais são os temas de músicas mais recorrentes ?
+Já que temos os txt de apoio com localização e ano da música, conseguimos usar essas informações para ter mais detalhes nas análises.
+
+>Quais são os temas de músicas mais recorrentes ?
 	- Analisar por época, gênero, localização do artista, etc.
-Artistas que cantam sobre o mesmo tema e possuem o mesmo gênero possuem popularidade parecida? 
+	- Interessaria a quem produz a música, se quiser fazer algo popular...
+
+>Artistas que cantam sobre o mesmo tema e possuem o mesmo gênero possuem popularidade parecida? 
 	- O que poderia influenciar na popularidade de um artista, localização, época ...
-Qual o critério de popularidade, seria gênero, localização, época? Músicas mais novas/antigas são mais populares ?
-Familiaridade E Popularidade são correlacionados?
-Como se comportam os gêneros? (Eles aparecem em uma época e se mantém, somem, variam entre popularidade alta e baixa?)
+	- Valeria a pena aos produtores investir em uma banda que já possui semelhantes no ramo?
 
+>Qual o critério de popularidade, seria gênero, localização, época? Músicas mais novas/antigas são mais populares ?
 
+>Familiaridade E Popularidade são correlacionados?
+	- Uma música q vc conhece  e escuta sem parar, mesmo que não seja do seu gênero preferido, será uma música que você vai gostar?
 
-genero de musica por ano
-genero de musica por localização
-mudança de genero do mesmo artista ao longo do tempo
-hotness por genero, epoca e local
-se o q foi lançado no passado perde o hotness
-musicas mais antigas e mais populares. e familiaridade com atuais?
-duraçao de musicas ao longo do tempo
-sobre o que fala a musica(por genero, localizacao, epoca)? (antigamente cantavam mto sobre religiao e o que acontecia, como se fosse uma narrativa ou historinha. e atualmente?)
-se com o mesmo genero e similaridade (palavras comum), as musicas tem popularidade aproximada ou nao. o q influencia isso? localizaçao, epoca...
-tags surgindo ao longo do tempo (genero e tal, se um genero de repente aparece, tem sua popularidade e some eventualmente...)
+>Como se comportam os gêneros? (Eles aparecem em uma época e se mantém, somem, variam entre popularidade alta e baixa?)
 
-
-
-
-
-
-ver tags nos txt, assim como localizaçao, etc
-
-
-criterios de visualizaçao:
-ter sentido ponto de vista tecnico (implementar o q aprendeu nas aulas)
-responder uma pergunta que seja relevante
-ter espaço pra expressividade, inovação na visualização
+>Artistas do mesmo gênero musical cantam sobre coisas diferentes de acordo com sua localização ? E de acordo com o tempo ?
+	- Será que um estilo musical é influenciado por algum tema?
