@@ -1,0 +1,7 @@
+Quais são os temas de músicas mais recorrentes ?
+	- Analisar por época, gênero, localização do artista, etc.
+Artistas que cantam sobre o mesmo tema e possuem o mesmo gênero possuem popularidade parecida? 
+	- O que poderia influenciar na popularidade de um artista, localização, época ...
+Qual o critério de popularidade, seria gênero, localização, época? Músicas mais novas/antigas são mais populares ?
+Familiaridade E Popularidade são correlacionados?
+Como se comportam os gêneros? (Eles aparecem em uma época e se mantém, somem, variam entre popularidade alta e baixa?)
